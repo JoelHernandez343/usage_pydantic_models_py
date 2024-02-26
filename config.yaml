@@ -1,0 +1,23 @@
+---
+users:
+  - name: Kenia
+    age: 21
+    file: input.txt
+    pets:
+      - name: Patroclo
+        species: fish
+        skills:
+          walk: almost
+          swing: average
+      - name: Qwerty
+        species: dog
+        skills:
+          talk: low
+          running: above_average
+  - name: Joel
+    age: 24
+    file: input2.txt
+  - name: Carlos
+    age: 19
+    hobby: music
+    file: input3.txt
